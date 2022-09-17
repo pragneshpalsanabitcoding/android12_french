@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="applovin_sdk_key">l2eHJCxgHTn4tTHns3A55HzXG6ekoyDJigM2SxRmGSN6T1bNmT37tTDW0UxVBVkUepJxXKxFQ8yPMONBdyKO3A</string>
+    <string name="hello_world">Hello World</string>
+    <string name="google_ads">google_ads</string>
+    <string name="app_lovin">app_lovin</string>
+    <string name="unity_ads">unity_ads</string>
+    <string name="custom_ads">custom_ads</string>
+    <string name="facebook_ads">facebook_ads</string>
+    <string name="ad_label">Ad</string>
+</resources>

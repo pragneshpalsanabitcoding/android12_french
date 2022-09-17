@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:hyprmx-adapter:6.0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/28d20baa0286489e3f36bba360184ec5/transformed/jetified-hyprmx-adapter-6.0.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/28d20baa0286489e3f36bba360184ec5/transformed/jetified-hyprmx-adapter-6.0.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/28d20baa0286489e3f36bba360184ec5/transformed/jetified-hyprmx-adapter-6.0.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/hyprmx-adapter/6.0.3.0/9ce81732e06a7e5f47fcd3a0264d7bc90ad981b0/hyprmx-adapter-6.0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

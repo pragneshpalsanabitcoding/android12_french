@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:google-ad-manager-adapter:21.1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/81fdeba78aa918e987f607c81e9ae9c9/transformed/jetified-google-ad-manager-adapter-21.1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/81fdeba78aa918e987f607c81e9ae9c9/transformed/jetified-google-ad-manager-adapter-21.1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/81fdeba78aa918e987f607c81e9ae9c9/transformed/jetified-google-ad-manager-adapter-21.1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/google-ad-manager-adapter/21.1.0.3/2522bc366ee4d7bb75b83416786aaff0ae5ceaf4/google-ad-manager-adapter-21.1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.linecorp.adsnetwork:fivead:2.4.20220216@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4594c9698f48d5c5a73fffe54f85e9b6/transformed/jetified-fivead-2.4.20220216/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4594c9698f48d5c5a73fffe54f85e9b6/transformed/jetified-fivead-2.4.20220216/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4594c9698f48d5c5a73fffe54f85e9b6/transformed/jetified-fivead-2.4.20220216/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

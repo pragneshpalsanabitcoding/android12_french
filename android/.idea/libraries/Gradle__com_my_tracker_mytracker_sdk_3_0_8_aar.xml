@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.my.tracker:mytracker-sdk:3.0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9d22971fe7ab0f0716a25e3d8816a40d/transformed/jetified-mytracker-sdk-3.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9d22971fe7ab0f0716a25e3d8816a40d/transformed/jetified-mytracker-sdk-3.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9d22971fe7ab0f0716a25e3d8816a40d/transformed/jetified-mytracker-sdk-3.0.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.my.tracker/mytracker-sdk/3.0.8/de48dcef2873b52de64cdaeb8e664ec1d8ab7599/mytracker-sdk-3.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

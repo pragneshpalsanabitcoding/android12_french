@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1080408963572",
+    "firebase_url": "https://english-french-german-default-rtdb.firebaseio.com",
+    "project_id": "english-french-german",
+    "storage_bucket": "english-french-german.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080408963572:android:bc98398dd51657477a61a1",
+        "android_client_info": {
+          "package_name": "com.minichat.jolie.videochat.direct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080408963572-kkhj0fdhb7vf8pnu0mea224tb0dglta6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6bTQAVNGhI6WNJI7A3Coxr6X7ygC0kR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080408963572-kkhj0fdhb7vf8pnu0mea224tb0dglta6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080408963572:android:3f749185dddcb2697a61a1",
+        "android_client_info": {
+          "package_name": "com.minichat.lieblich.live.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080408963572-kkhj0fdhb7vf8pnu0mea224tb0dglta6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6bTQAVNGhI6WNJI7A3Coxr6X7ygC0kR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080408963572-kkhj0fdhb7vf8pnu0mea224tb0dglta6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080408963572:android:44d37645db2077657a61a1",
+        "android_client_info": {
+          "package_name": "com.minichat.lovely.random.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080408963572-kkhj0fdhb7vf8pnu0mea224tb0dglta6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6bTQAVNGhI6WNJI7A3Coxr6X7ygC0kR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080408963572-kkhj0fdhb7vf8pnu0mea224tb0dglta6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:line-adapter:2022.2.16.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fa5121ac140ec1c44118c4bf5b544073/transformed/jetified-line-adapter-2022.2.16.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa5121ac140ec1c44118c4bf5b544073/transformed/jetified-line-adapter-2022.2.16.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa5121ac140ec1c44118c4bf5b544073/transformed/jetified-line-adapter-2022.2.16.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/line-adapter/2022.2.16.0/68bf7dfe9f5b67054e56c9265ef3bebee7c05423/line-adapter-2022.2.16.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
